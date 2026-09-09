@@ -65,12 +65,16 @@ Diagnostics Data：诊断数据开关，项目默认配置。
 - Icon 自定义各尺寸的游戏图标
 - Resolution and Presentation设置窗口、分辨率相关
   - Resolution
-    Fullscreen Mode全屏模式:
+    - Fullscreen Mode全屏模式:
 	    1. FullscreenWindow保持显示器分辨率全屏如果分辨率不足会有黑边
 	    2. Exclusive Fullscreen会改变显示器分辨率来适配自己的项目也是全屏模式
 	    3. Maximized Window最大化窗口模式
 	    4. Windowed窗口模式
-     
+	- Default Is Native Resolution勾选时，使用显示器分辨率取消勾选是，使用设置的分辨率(窗口模式才有用)
+	- Default Screen Height游戏画面默认高度，窗口模式才有用
+	- Mac Retina Support是否在Mac系统上启用高DPI支持
+	- Run In background开启后，程序失去焦点时可以继续运行而不是暂停
+	
 	    
 	 
 		
