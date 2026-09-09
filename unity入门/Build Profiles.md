@@ -46,12 +46,12 @@
 
 Diagnostics Data：诊断数据开关，项目默认配置。
 
-### 右上角标签
 
-1. **Player Settings**：跳转到项目玩家设置（版本号、公司名、图标、分辨率、权限等）
-2. **Asset Import Overrides**：资源导入覆盖，针对该套打包配置修改资源导入参数。
 
 ### 底部按钮
 
 1. **Build**：仅打包，弹出文件夹选择，输出游戏程序。
 2. **Build And Run**：打包完成后，直接运行生成出来的游戏。
+
+## Player Settings
+![[assets/Pasted image 20260909143511.png]]
