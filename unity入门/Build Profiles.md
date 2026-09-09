@@ -53,5 +53,24 @@ Diagnostics Data：诊断数据开关，项目默认配置。
 1. **Build**：仅打包，弹出文件夹选择，输出游戏程序。
 2. **Build And Run**：打包完成后，直接运行生成出来的游戏。
 
-## Player Settings
+### Player Settings
 ![[assets/Pasted image 20260909143511.png]]
+
+- Company Name 公司名
+- Product Name 项目名（游戏名）
+- Version 版本号
+- Default Icon 默认图标
+- Default Cursor 默认鼠标光标图
+- Cursor Hotspot 鼠标图偏移位置
+- Icon 自定义各尺寸的游戏图标
+- Resolution and Presentation设置窗口、分辨率相关
+  - Resolution
+    Fullscreen Mode全屏模式:
+	    1. FullscreenWindow保持显示器分辨率全屏如果分辨率不足会有黑边
+	    2. Exclusive Fullscreen会改变显示器分辨率来适配自己的项目也是全屏模式
+	    3. Maximized Window最大化窗口模式
+	    4. Windowed窗口模式
+     
+	    
+	 
+		
