@@ -31,17 +31,17 @@
 
 ### Platform Settings (Windows) 平台参数
 
-| 参数                            | 说明                                                                 |
-| ----------------------------- | ------------------------------------------------------------------ |
-| Architecture                  | 架构，Intel 64‑bit：64 位 PC 程序                                         |
-| Build and Run on              | Build And Run 运行目标，Local Machine = 本机                              |
-| Copy PDB files                | 复制调试符号文件，调试版本开启，正式发布关闭。<br>开启后可以在打包出的数据中<br>包含程序数据库文件，之后可以用于调试应用程序 |
-| Create Visual Studio Solution | 生成 VS 解决方案源码工程，仅源码调试用<br>可以在VS中进行正式的打包可以设置更多额外信息                   |
-| Development Build             | **开发构建**：测试包，开启日志、调试；正式打包务必取消勾选<br>启用后，会在打包出的版本中开启性能分析器，之后可以用于调试   |
-| Autoconnect Profiler          | 打包后自动连接性能分析器，调试用                                                   |
-| Deep Profiling Support        | 深度性能剖析，性能调试，会大幅降低运行速度                                              |
-| Script Debugging              | 脚本调试，允许 VS 附加调试游戏程序                                                |
-| Compression Method            | 资源压缩方式，Default 默认                                                  |
+| 参数                            | 说明                                                                   |
+| ----------------------------- | -------------------------------------------------------------------- |
+| Architecture                  | 架构，Intel 64‑bit：64 位 PC 程序                                           |
+| Build and Run on              | Build And Run 运行目标，Local Machine = 本机                                |
+| Copy PDB files                | 复制调试符号文件，调试版本开启，正式发布关闭。<br>开启后可以在打包出的数据中<br>包含程序数据库文件，之后可以用于调试应用程序   |
+| Create Visual Studio Solution | 生成 VS 解决方案源码工程，仅源码调试用<br>可以在VS中进行正式的打包可以设置更多额外信息                     |
+| Development Build             | **开发构建**：测试包，开启日志、调试；正式打包务必取消勾选<br>启用后，会在打包出的版本中开启性能分析器，之后可以用于调试     |
+| Autoconnect Profiler          | 启用Development Build后才有用<br>开启后Unity性能分析器可以自动连接到你的打包项目                |
+| Deep Profiling Support        | 启用Development Build后才有用<br>开启后，性能分析器可以分析到每个函数的调用来获取更详细数据             |
+| Script Debugging              | 启用Development Build后才有用开启后，Unity会将调试符号添加到脚本代码中                       |
+| Compression Method            | 资源压缩方式，Default 默认<br>LZ4快速压缩格式<br>LZ4HCLZ4的高度压缩变体<br>构建速度会变慢，但是压缩效果好 |
 ### Diagnostics
 
 Diagnostics Data：诊断数据开关，项目默认配置。
