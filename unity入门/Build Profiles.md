@@ -27,6 +27,7 @@
 - 打勾：该场景会被打进游戏包；取消勾选打包会忽略该场景。
 - 数字：场景加载序号，<font color="#ff0000">**0 号为游戏启动第一个场景**。</font>
 - `Open Scene List`：打开窗口管理所有打包场景。
+- 
 
 ### Platform Settings (Windows) 平台参数
 
