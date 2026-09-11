@@ -11,5 +11,7 @@
   "tag-wrangler",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian42-brat",
+  "remotely-save"
 ]
