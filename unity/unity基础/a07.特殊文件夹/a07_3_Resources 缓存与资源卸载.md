@@ -8,6 +8,7 @@
 
 ## 手动释放缓存资源的两种方式
 ### 方式 1：`Resources.UnloadAsset(资源对象)` 卸载指定资源
+
 ```csharp
 Resources.UnloadAsset(tex);
 tex = null;
@@ -20,3 +21,14 @@ tex = null;
 > 开发中单独用这个方法的场景比较少。
 
 ### 方式 2：`Resources.UnloadUnusedAssets()` 卸载**未被使用**的全部资源
+
+```csharp
+Resources.UnloadUnusedAssets();
+GC.Collect(); //强制C#垃圾回收
+```
+- “未被使用”：**没有任何 C# 变量持有这个资源的引用**
+- 典型使用时机：**切换场景的时候调用**
+- 配合`GC.Collect()`，把 C# 层的垃圾一并回收
+- 内部是异步执行，不是立刻全部释放
+
+重点：如果你脚本还有变量保存着资源引用，`UnloadUnusedAssets()`**不会卸载这个资源**！ 想要它被卸载：必须先把所有引用赋值为`null`。
