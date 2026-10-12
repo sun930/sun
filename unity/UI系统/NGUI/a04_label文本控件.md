@@ -1,13 +1,13 @@
 ## 参数
 ![[assets/Pasted image 20261012151007.png|450]]
-- Font
+- <font color="#ff0000">Font</font>
   使用Unity字体可以使用fft的字体文件
   也可以使用NGUI字体图集
 - Material 材质 一般不会修改
-- FontSize 字体大小
+- <font color="#ff0000">FontSize 字体大小</font>
   ![[assets/Pasted image 20261012151339.png|430]]
   普通、加粗、斜体、加粗并斜体
-- Text 显示内容
+- <font color="#ff0000">Text 显示内容</font>
 - Modifier 修饰方式 强制大小写字母
   ![[assets/Pasted image 20261012152002.png]]
   没有限制、大写字母、小写字母、自定义
@@ -47,5 +47,7 @@
   OutLine和Outline8:边缘线，计算参数不同8粗一点
 - Float spacing 开启浮点数间隔调整  默认整形
 - Spacing  字符间隔
-- 
+- Max Lines  最大行数
+- BBCode  是否开启富文本
+- Color Tint 字体颜色
   
