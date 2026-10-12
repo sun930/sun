@@ -1,13 +1,13 @@
 ## 参数
 ![[assets/Pasted image 20261012151007.png|450]]
-- <font color="#ff0000">Font</font>
+- Font
   使用Unity字体可以使用fft的字体文件
   也可以使用NGUI字体图集
 - Material 材质 一般不会修改
-- <font color="#ff0000">FontSize 字体大小</font>
+- FontSize 字体大小
   ![[assets/Pasted image 20261012151339.png|430]]
   普通、加粗、斜体、加粗并斜体
-- <font color="#ff0000">Text 显示内容</font>
+- Text 显示内容
 - Modifier 修饰方式 强制大小写字母
   ![[assets/Pasted image 20261012152002.png]]
   没有限制、大写字母、小写字母、自定义
@@ -50,4 +50,13 @@
 - Max Lines  最大行数
 - BBCode  是否开启富文本
 - Color Tint 字体颜色
-  
+
+### 富文本
+- [ff0000]颜色[-]
+- [b]加粗[/b]
+- [i]斜体[/i]
+- [u]下划线[/u]
+- [s]直接穿过文字[/s]
+- [sub]右下角显示[/sub]
+- [sup]右上角显示[/sup]
+- [url = http://www.baidu.com/][u ] 超链接[/u][/url]
