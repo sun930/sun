@@ -1,4 +1,5 @@
 ## 参数
+### Sprite参数
 
 ![[assets/Pasted image 20261012103453.png]]
 
@@ -24,3 +25,11 @@
  - Gradlient 渐变色
    勾选后自动渐变上部颜色和下部颜色
  - Color Tint 颜色叠加
+### 公共内容
+![[assets/Pasted image 20261012110552.png]]
+- Pivot
+  控制对象中心点，决定用于对其的中心点
+- Depth 深度层级
+  用于决定渣染顺序值越大越后渣染，显示在前方
+- Size
+  
