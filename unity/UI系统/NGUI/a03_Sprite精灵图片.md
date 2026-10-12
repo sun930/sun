@@ -9,4 +9,11 @@
 	  不管如何变化尺寸
 	  适中保持宽高比
 - Type 图片类型
-  
+  ![[assets/Pasted image 20261012103834.png]]
+  - Simple 普通模式 缩放会拉伸
+  - Sliced 切片模式 可九宫格缩放
+  - Tiled 平铺模式 图片重复绘制
+  - Filed 填充模式 可以作CD 进度条等
+    ![[assets/Pasted image 20261012104120.png]]
+    填充方式、水平、竖直、90度、180度、360度
+- 
