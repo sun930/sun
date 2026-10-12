@@ -38,5 +38,14 @@
 - Keep crisp 动态字体锐化
   这是一个动态字体功能，可以确保文本在收缩时清晰
   ![[assets/Pasted image 20261012153525.png]]
-  从不、OnDesktop和
+  从不、OnDesktop和Always区别不大都会开启
+- Gradient 渐变
+- Effect 特效
+  ![[assets/Pasted image 20261012153953.png]]
+  None:没有
+  Shadow:阴影效果
+  OutLine和Outline8:边缘线，计算参数不同8粗一点
+- Float spacing 开启浮点数间隔调整  默认整形
+- Spacing  字符间隔
+- 
   
