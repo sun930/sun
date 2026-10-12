@@ -35,4 +35,8 @@
 - Alignment 对其方法
   ![[assets/Pasted image 20261012152552.png|466]]
   自动对齐、居左、中心、居右、调整会自动变化
+- Keep crisp 动态字体锐化
+  这是一个动态字体功能，可以确保文本在收缩时清晰
+  ![[assets/Pasted image 20261012153525.png]]
+  从不、OnDesktop和
   
