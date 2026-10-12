@@ -51,7 +51,7 @@
 - BBCode  是否开启富文本
 - Color Tint 字体颜色
 
-### 富文本
+## 富文本
 - [ff0000]颜色[-]
 - [b]加粗[/b]
 - [i]斜体[/i]
@@ -59,4 +59,7 @@
 - [s]直接穿过文字[/s]
 - [sub]右下角显示[/sub]
 - [sup]右上角显示[/sup]
-- [url = http://www.baidu.com/][u ] 超链接[/u][/url]
+- [url = http://www.baidu.com/]  [u ] 超链接 [/u]  [/url]
+  希望点击超链接能打开页面:
+  1.添加碰撞器
+  2.添加脚本Open URL On Click
