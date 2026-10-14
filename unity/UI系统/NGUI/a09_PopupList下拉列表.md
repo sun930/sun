@@ -33,5 +33,5 @@
   - <font color="#ff0000">Highlight  下拉列表选中图</font>
   - <font color="#ff0000">Background  背景颜色叠加</font>
   - <font color="#ff0000">Highlight  选中 高亮叠加家宴</font>
-  - <font color="#ff0000">Overlap  弹出窗口边框与打开它的内容重叠的数量</font>
-  - <font color="#ff0000">Animated  是否有默认的弹出动画禁用可以节约性能</font>
+  - <font color="#000000">Overlap  弹出窗口边框与打开它的内容重叠的数量</font>
+  - <font color="#000000">Animated  是否有默认的弹出动画禁用可以节约性能</font>
