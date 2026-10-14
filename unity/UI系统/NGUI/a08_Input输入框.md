@@ -13,3 +13,11 @@
 - <font color="#ff0000">InputType  输入类型</font>
   ![[assets/Pasted image 20261014110815.png|340]]
   默认模式、自动更正、密码输入(输入内容看不到)
+- <font color="#ff0000">Validation 输入限制</font>  ![[assets/Pasted image 20261014111255.png]]
+  None：无限制
+  Integer：只能输入整形
+  Float：可以输入浮点型
+  Alphanumeric：只能是数字和字母
+  Username：用户名
+  Name：姓名
+  Filename：文件名
