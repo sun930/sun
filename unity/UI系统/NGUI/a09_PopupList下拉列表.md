@@ -27,4 +27,9 @@
   - Modifier 修饰方式 强制大小写字母
     ![[assets/Pasted image 20261014153311.png|285]]
     没有限制、大写字母、小写字母、自定义
-  - 
+- <font color="#ff0000">Atlas</font>
+  - Atlas 图集
+  - Background  下拉列表 背景图
+  - Highlight  下拉列表选中图
+  - Background  背景颜色叠加
+  - Highlight  选中 高亮叠加家宴
