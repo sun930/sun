@@ -19,4 +19,4 @@
   - Padding 偏移位置
   - Modifier 修饰方式 强制大小写字母
     ![[assets/Pasted image 20261014153311.png|285]]
-    
+    没有限制、大写字母、小写字母、自定义
