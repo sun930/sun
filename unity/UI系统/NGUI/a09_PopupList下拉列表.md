@@ -12,6 +12,7 @@
 - <font color="#ff0000"> Alignment  对其方式</font>
   ![[assets/Pasted image 20261014152930.png|294]]
   自动对齐、左对齐、居中对齐、右对齐、调整会自动变化
+- Open on 下拉列表打开方式
 - <font color="#ff0000">Font</font>
   - <font color="#ff0000">Font 字体</font>
   - <font color="#ff0000">Font Size</font>
@@ -20,3 +21,4 @@
   - Modifier 修饰方式 强制大小写字母
     ![[assets/Pasted image 20261014153311.png|285]]
     没有限制、大写字母、小写字母、自定义
+  - 
