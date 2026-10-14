@@ -6,5 +6,17 @@
   ![[assets/Pasted image 20261014152712.png|292]]
   自动(建议自动让其自动判断)
   向上、向下
-- Selection  选中操作
-  ![[assets/Pasted image 20261014152805.png]]
+- Selection选中操作
+  ![[assets/Pasted image 20261014152840.png|294]]
+  按下选中、点击选中
+- <font color="#ff0000"> Alignment  对其方式</font>
+  ![[assets/Pasted image 20261014152930.png|294]]
+  自动对齐、左对齐、居中对齐、右对齐、调整会自动变化
+- <font color="#ff0000">Font</font>
+  - <font color="#ff0000">Font 字体</font>
+  - <font color="#ff0000">Font Size</font>
+  - <font color="#ff0000">Texture 字体颜色</font>
+  - Padding 偏移位置
+  - Modifier 修饰方式 强制大小写字母
+    ![[assets/Pasted image 20261014153311.png|285]]
+    
