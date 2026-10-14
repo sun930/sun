@@ -21,3 +21,12 @@
   Username：用户名
   Name：姓名
   Filename：文件名
+- Mobile Keyboard  手机键盘模式
+  ![[assets/Pasted image 20261014111801.png]]
+  英文、数字符号、连接、数字、手机、名字、邮箱地址
+- Hide Input  键盘下 隐藏输入框
+- <font color="#ff0000">On Return Key  完成键(回车键)  做什么操作</font>
+  ![[assets/Pasted image 20261014111921.png]]
+- <font color="#ff0000">Character Limit  最大可输入字符数</font>
+- <font color="#ff0000">OnSubmit  输入完成时响应脚本</font>
+- <font color="#ff0000">OnChange  输入变化时响应脚本</font>
