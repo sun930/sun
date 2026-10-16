@@ -46,3 +46,5 @@
 ## Grid
 ![[assets/Pasted image 20261016164451.png|415]]
 - <font color="#ff0000">Arrangement  排序对其方式</font>
+  水平、竖直、元素大小
+- 
