@@ -34,4 +34,12 @@
   滚动视图的内容是否应该是可拖动的
   取决于它们当前子对象大小是否溢出
 - Smooth Drag Start  平滑拖动，一般不修改
-- IOS Drag EmulationIOS  阻力模拟，一般不修改
+- IOS Drag EmulationIOS  
+- 阻力模拟，一般不修改
+## Scrollbar Bars
+![[assets/Pasted image 20261016163419.png|435]]
+- Horizontal  水平滚动条
+- 竖直滚动条
+- ShowCondition  显示时机
+  ![[assets/Pasted image 20261016163458.png]]
+  一直显示、需要时显示、拖动时显示
