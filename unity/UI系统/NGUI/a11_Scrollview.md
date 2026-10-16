@@ -16,3 +16,22 @@
   滚动因子
   如果不为0，鼠标中间滚动可以滚动它
   可以通过它控制速度和方向
+- <font color="#ff0000">Momentum Amount</font>
+  动量
+  拖曳一下鼠标，动的快慢
+  可以理解成惯性大小
+- <font color="#ff0000">Sppring Strength</font>
+  弹力大小
+  移动到边缘时弹回时弹力大小
+- Dampen Strength
+  阻尼强度影响回弹效果
+- Restrict Within Panel
+  限制在Panel中
+  不勾选，不会产生弹力效果
+- Constrain On Drag  阻力约束，一般不修改
+- <font color="#ff0000">Cancel Drag if fits</font>
+  若勾选
+  滚动视图的内容是否应该是可拖动的
+  取决于它们当前子对象大小是否溢出
+- Smooth Drag Start  平滑拖动，一般不修改
+- IOS Drag EmulationIOS  阻力模拟，一般不修改
