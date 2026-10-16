@@ -47,4 +47,11 @@
 ![[assets/Pasted image 20261016164451.png|415]]
 - <font color="#ff0000">Arrangement  排序对其方式</font>
   水平、竖直、元素大小
-- 
+- <font color="#ff0000">Cell width  元素宽</font>
+- <font color="#ff0000">Cell Height 元素高</font>
+- <font color="#ff0000">Row Limit </font>
+  元素个数
+  会自动换行
+- Sorting  排序顺序
+  ![[assets/Pasted image 20261016165902.png]]
+  没有排序、按字母排序、水平放置顺序、垂直放置顺序、自定义
