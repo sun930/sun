@@ -43,3 +43,6 @@
 - ShowCondition  显示时机
   ![[assets/Pasted image 20261016163458.png]]
   一直显示、需要时显示、拖动时显示
+## Grid
+![[assets/Pasted image 20261016164451.png|415]]
+- <font color="#ff0000">Arrangement  排序对其方式</font>
