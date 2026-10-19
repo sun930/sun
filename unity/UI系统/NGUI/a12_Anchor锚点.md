@@ -19,5 +19,7 @@
   无 统一模式 高级模式
 - Execute  什么时候执行更新
 - Target  相对目标
-![[assets/Pasted image 20261019161034.png]]
-Left、Right、
+![[assets/Pasted image 20261019161431.png]]
+Left、Right、Bottom、Top相当于蓝色，这个图片自己的四条边
+![[assets/Pasted image 20261019161238.png]]
+左边这蓝色的边相对于中心点的这条线，他们之间的距离是50
