@@ -11,3 +11,13 @@
   除非分辨率要变化才取消勾选
 - Relative Offset  相对比例偏移位置(0~1)
 - Pixel Offset  像素偏移位置
+
+## Anchors
+![[assets/Pasted image 20261019160835.png]]
+![[assets/Pasted image 20261019160808.png]]
+- Type 尺寸对齐方式
+  无 统一模式 高级模式
+- Execute  什么时候执行更新
+- Target  相对目标
+![[assets/Pasted image 20261019161034.png]]
+Left、Right、
