@@ -55,3 +55,18 @@
 - Sorting  排序顺序
   ![[assets/Pasted image 20261016165902.png]]
   没有排序、按字母排序、水平放置顺序、垂直放置顺序、自定义
+- Inverted
+  倒转
+  若选择了排序方式
+  勾选这里 可以翻转排序规则
+- Pivot
+  锚点位置
+  9宫格9个位置
+- Smooth Tween
+  平缓缓动动画
+  是否会平滑地将其子对象设置为正确的位置
+- Hide Inactive  是否隐藏不活动组件
+- Constrain To panel
+  约束面板
+  是否将网格子对象的更改通知父容器Panel
+  会用于更新ScrollBar等显示信息
