@@ -27,4 +27,5 @@
 ## 制作UI时降低DrawCall的技巧
 1. 通过NGUI Panel上提供的DrawCall查看工具
 2. 注意不同图集之间的层级关系
+   同样图集的图片
 3. 注意Label的层级关系
