@@ -24,3 +24,10 @@
 - <font color="#ff0000">Start State</font>
   如果为真，则在激活触发之前
   Play Tween将在启动时将所有关联的Tween重置为其起始状态
+- <font color="#ff0000">TweenGroup  控制的是哪一组缓动</font>
+- <font color="#ff0000">Trigger condition  触发条件</font>
+  ![[assets/Pasted image 20261021015923.png]]
+- <font color="#ff0000">Play direction</font>
+  ![[assets/Pasted image 20261021015952.png]]
+  Reverse关闭功能
+  Togale开关状态转换
