@@ -19,3 +19,9 @@
 简单理解 文件越多额外开销就越大
 
 渲染过程和上面的例子很类似，每次DrawCall，CPU都需要准备很多数据发送给GPU，那么如果DrawCall越多那么额外开销就越大，其实GPU的渲染效率是很强大的，往往影响渲染效率的都是因为CPU提交命令的速度如果DrawCall太多CPU就会把大量时间画在提交DrawCall上 造成CPU过载，游戏卡顿
+
+## 如何降低DrawCall数量
+在UI层面上
+小图合大图一>即多个小DrawCall变一次大DrawCall
+
+## 制作UI时降低DrawCall的技巧
