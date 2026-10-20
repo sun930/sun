@@ -29,5 +29,15 @@
   ![[assets/Pasted image 20261021015923.png]]
 - <font color="#ff0000">Play direction</font>
   ![[assets/Pasted image 20261021015952.png]]
-  Reverse关闭功能
-  Togale开关状态转换
+  Reverse 反转播放
+  Toggle正反状态转换
+  Forward 正向播放
+- If target is disabled  如果控制对象失活处理方式
+  ![[assets/Pasted image 20261021020647.png|330]]
+  啥也不做、为了播放激活它、忽略失活状态
+- On activation  激活时
+  ![[assets/Pasted image 20261021020725.png|329]]
+  继续当前、重新开始、如果没有播放重新开始
+- When finished  播放完毕做啥
+  ![[assets/Pasted image 20261021020757.png|330]]
+  执行完后隐藏、什么也不做、如果是倒着播，播放完后隐藏
