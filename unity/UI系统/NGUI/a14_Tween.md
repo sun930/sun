@@ -30,7 +30,7 @@
 - <font color="#ff0000">Play direction</font>
   ![[assets/Pasted image 20261021015952.png]]
   Reverse 反转播放
-  Toggle正反状态转换
+  Toggle  正反状态转换
   Forward 正向播放
 - If target is disabled  如果控制对象失活处理方式
   ![[assets/Pasted image 20261021020647.png|330]]
