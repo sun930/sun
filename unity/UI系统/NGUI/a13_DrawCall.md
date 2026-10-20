@@ -25,3 +25,6 @@
 小图合大图一>即多个小DrawCall变一次大DrawCall
 
 ## 制作UI时降低DrawCall的技巧
+1. 通过NGUI Panel上提供的DrawCall查看工具
+2. 注意不同图集之间的层级关系
+3. 注意Label的层级关系
