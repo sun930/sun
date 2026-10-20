@@ -4,7 +4,7 @@
 - <font color="#ff0000"> PlayStyle 播放方式</font>
   ![[assets/Pasted image 20261021014028.png]]
   一次、循环、循环 从头到尾 从尾到头
-- Animation Curve 动画取消 
+- Animation Curve 动画曲线 
   可以调整两个值的变化曲线
 - <font color="#ff0000">Duration  持续时间</font>
 - <font color="#ff0000">Start Delay  开始播放前的延迟时间</font>
