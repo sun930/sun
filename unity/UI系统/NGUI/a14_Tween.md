@@ -1,4 +1,6 @@
-![[assets/Pasted image 20261021013931.png|435]]
+## Tween 参数
+![[assets/Pasted image 20261021015454.png|428]]
+
 - <font color="#ff0000">From 开始状态</font>
 - <font color="#ff0000">To 结束状态</font>
 - <font color="#ff0000"> PlayStyle 播放方式</font>
@@ -14,3 +16,11 @@
   用于一个对象多个动画时分组
 - <font color="#ff0000">lgnore TimeScale  忽略时间暂停</font>
 - Use Fixed Update  使用物理更新更新动画
+
+## Play Tween
+![[assets/Pasted image 20261021015757.png|426]]
+- <font color="#ff0000">Tween Target  控制对象</font>
+- <font color="#ff0000">Include Children  是否带着子对象一起变化</font>
+- <font color="#ff0000">Start State</font>
+  如果为真，则在激活触发之前
+  Play Tween将在启动时将所有关联的Tween重置为其起始状态
