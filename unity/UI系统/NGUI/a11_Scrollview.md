@@ -1,7 +1,11 @@
+## 制作
+1. 直接工具栏创建即可 NGuI一Create一Scrollview
+2. 若需要ScrollBar 自行添加水平和竖直
+3. 添加子对象 为子对象添加Drag Scroll View和碰撞器
 ## 参数
 ### Panel（可视区域）
 ![[assets/Pasted image 20261015170859.png|339]]
-## Scroll View
+### Scroll View
 ![[assets/Pasted image 20261015170641.png|342]]
 - <font color="#ff0000"> Content Origin  内容子对象对其方式</font>
 - <font color="#ff0000"> Movement 拖曳的方向</font>
@@ -36,14 +40,14 @@
 - Smooth Drag Start  平滑拖动，一般不修改
 - IOS Drag EmulationIOS  
 - 阻力模拟，一般不修改
-## Scrollbar Bars
+### Scrollbar Bars
 ![[assets/Pasted image 20261016163419.png|435]]
 - Horizontal  水平滚动条
 - 竖直滚动条
 - ShowCondition  显示时机
   ![[assets/Pasted image 20261016163458.png]]
   一直显示、需要时显示、拖动时显示
-## Grid
+### Grid
 ![[assets/Pasted image 20261016164451.png|415]]
 - <font color="#ff0000">Arrangement  排序对其方式</font>
   水平、竖直、元素大小
