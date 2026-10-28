@@ -16,7 +16,7 @@
   - Shrink Content
     收缩内容
 	文字显示的大小与Label的大小自动适应:
-	Labe控件尺寸不足显示较大字体时
+	Label控件尺寸不足显示较大字体时
 	字体的尺寸会自动适应Label控件的尺寸
   - Clamp Content
     夹紧内容
