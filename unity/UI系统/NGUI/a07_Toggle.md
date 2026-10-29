@@ -1,3 +1,8 @@
+## 制作
+1. 2个sprite 1父1子
+2. 为父对象添加Toggle脚本
+3. 添加碰撞器
+
 ## 参数
 ![[assets/Pasted image 20261013163310.png]]
 - Group 
