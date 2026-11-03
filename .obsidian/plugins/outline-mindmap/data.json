@@ -1,0 +1,35 @@
+{
+  "clickToJump": true,
+  "mapMode": "fixed",
+  "lockFile": false,
+  "gracefulAnimation": true,
+  "strictLineBreak": false,
+  "deepListMarker": "-",
+  "orderedListNodes": false,
+  "listNodes": false,
+  "rememberOpenAs": true,
+  "styles": {
+    "defaults": {
+      "direction": "right",
+      "hGap": 48,
+      "vGap": 12,
+      "shape": "rounded",
+      "branch": "elbow",
+      "scheme": "blue",
+      "fontScale": 1,
+      "colorByLevel": false
+    },
+    "perFile": {}
+  },
+  "openAs": {},
+  "views": {
+    "unity/unity基础/a01.三角函数.md": {
+      "locked": false,
+      "viewport": {
+        "scale": 1,
+        "x": 93.5,
+        "y": 211
+      }
+    }
+  }
+}

@@ -13,5 +13,7 @@
   "templater-obsidian",
   "obsidian-plugin-toc",
   "obsidian42-brat",
-  "remotely-save"
+  "remotely-save",
+  "outline-mindmap",
+  "mermaid-tools"
 ]
