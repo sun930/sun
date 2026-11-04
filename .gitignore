@@ -4,3 +4,5 @@
 .obsidian/plugins/.obsidian-git-data
 .DS_Store
 Thumbs.db
+# 新增这一行，忽略整个插件文件夹
+.obsidian/plugins/
