@@ -2,5 +2,6 @@
   "newFileLocation": "root",
   "attachmentFolderPath": "./assets",
   "newLinkFormat": "relative",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }
